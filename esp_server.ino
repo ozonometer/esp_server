@@ -21,8 +21,8 @@ WL_DISCONNECTED = 6
 MDNSResponder mdns;
 
 // Replace with your network credentials
-const char* ssid = "MMG2";
-const char* password = "PracticalElectronicsForInventors";
+const char* ssid = "xxxxx";
+const char* password = "xxxxx";
 
 ESP8266WebServer server(80);
 String webPage = "";
